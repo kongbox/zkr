@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SB-PDM/SB-PDM.iml" filepath="$PROJECT_DIR$/SB-PDM/SB-PDM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kongbox/com.kongbox..iml" filepath="$PROJECT_DIR$/kongbox/com.kongbox..iml" />
+      <module fileurl="file://$PROJECT_DIR$/comleetcode/comleetcode.iml" filepath="$PROJECT_DIR$/comleetcode/comleetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/zkr.iml" filepath="$PROJECT_DIR$/zkr.iml" />
     </modules>
   </component>

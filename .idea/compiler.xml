@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zkr" />
+        <module name="com.kongbox." />
+        <module name="comleetcode" />
+        <module name="SB-PDM" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="zkr" target="1.5" />
+      <module name="com.kongbox." target="1.8" />
+      <module name="comleetcode" target="1.5" />
+      <module name="kongbox" target="1.8" />
+      <module name="SB-PDM" target="1.8" />
+      <module name="zkr" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
