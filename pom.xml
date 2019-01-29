@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>kongbox</module>
+        <module>gscomsumingrest</module>
+        <module>data-mysql</module>
+        <module>data-jpa</module>
     </modules>
 
     <parent>
@@ -17,33 +20,6 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.2.RELEASE</version>
     </parent>
-
-<dependencies>
-    <!--支持web的模块 -->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-web</artifactId>
-    </dependency>
-
-<!-- 开发环境调试，热部署-->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-devtools</artifactId>
-        <optional>true</optional>
-    </dependency>
-
-    <!--Spring test -->
-    <dependency>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-test</artifactId>
-    </dependency>
-</dependencies>
-
-
-
-
-
-
 
 
 

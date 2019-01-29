@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SB-PDM/SB-PDM.iml" filepath="$PROJECT_DIR$/SB-PDM/SB-PDM.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kongbox/com.kongbox..iml" filepath="$PROJECT_DIR$/kongbox/com.kongbox..iml" />
+      <module fileurl="file://$PROJECT_DIR$/kongbox/com.kongbox.iml" filepath="$PROJECT_DIR$/kongbox/com.kongbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/comleetcode/comleetcode.iml" filepath="$PROJECT_DIR$/comleetcode/comleetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-jpa/data-jpa.iml" filepath="$PROJECT_DIR$/data-jpa/data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-mysql/data-mysql.iml" filepath="$PROJECT_DIR$/data-mysql/data-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gscomsumingrest/gscomsumingrest.iml" filepath="$PROJECT_DIR$/gscomsumingrest/gscomsumingrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webdemo/webdemo.iml" filepath="$PROJECT_DIR$/webdemo/webdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zkr.iml" filepath="$PROJECT_DIR$/zkr.iml" />
     </modules>
   </component>

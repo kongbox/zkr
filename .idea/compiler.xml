@@ -6,16 +6,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com.kongbox" />
         <module name="com.kongbox." />
         <module name="comleetcode" />
+        <module name="data-jpa" />
+        <module name="data-mysql" />
+        <module name="gscomsumingrest" />
         <module name="SB-PDM" />
+        <module name="webdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.kongbox" target="1.8" />
       <module name="com.kongbox." target="1.8" />
       <module name="comleetcode" target="1.5" />
+      <module name="data-jpa" target="1.8" />
+      <module name="data-mysql" target="1.8" />
+      <module name="gscomsumingrest" target="1.8" />
       <module name="kongbox" target="1.8" />
       <module name="SB-PDM" target="1.8" />
+      <module name="webdemo" target="1.8" />
       <module name="zkr" target="1.8" />
     </bytecodeTargetLevel>
   </component>
